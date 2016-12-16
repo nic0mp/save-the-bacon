@@ -1,0 +1,13 @@
+body {
+	font-family: 'Arvo', serif;
+	border-style: solid;
+	border-width: 25px;
+	border-color: #ef9f7c;
+	height: 1500px;
+
+
+}
+
+.main-menu {
+	list-style-type: none;
+}
