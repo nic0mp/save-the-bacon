@@ -20,3 +20,8 @@ p {
 .bacon-plate {
 	max-width: 500px;
 }
+
+nav {
+	border: 20px solid yellow;
+	display: inline-block;
+}
