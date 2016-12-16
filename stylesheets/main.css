@@ -4,10 +4,19 @@ body {
 	border-width: 25px;
 	border-color: #ef9f7c;
 	height: 1500px;
-
-
 }
 
+@media all and (min-width: 360px) {
+
+}
+p {
+	display: inline-block;
+	width: 55%;
+}
 .main-menu {
 	list-style-type: none;
+}
+
+.bacon-plate {
+	max-width: 500px;
 }
